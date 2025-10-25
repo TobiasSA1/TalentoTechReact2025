@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import ItemList from "./ItemList";
+import ItemList from "../ItemList/ItemList.jsx";
 import "./ItemListContainer.css";
 
 export default function ItemListContainer() {

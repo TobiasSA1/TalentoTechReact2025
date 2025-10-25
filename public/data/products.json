@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-1001",
+    "title": "Auriculares Pro X",
+    "description": "Sonido Hi-Res, cancelación activa, mic desmontable.",
+    "price": 89999,
+    "category": "audio",
+    "stock": 25,
+    "thumbnail": "/images/prox-01.jpg",
+    "images": ["/images/prox-01.jpg", "/images/prox-02.jpg"]
+  },
+  {
+    "id": "p-1002",
+    "title": "Teclado Mecánico 75%",
+    "description": "Switches lineales, hot-swap, RGB per-key.",
+    "price": 129999,
+    "category": "perifericos",
+    "stock": 12,
+    "thumbnail": "/images/kb75-01.jpg",
+    "images": ["/images/kb75-01.jpg", "/images/kb75-02.jpg"]
+  },
+  {
+    "id": "p-1003",
+    "title": "Monitor 27” 240Hz QHD",
+    "description": "Panel rápido, 1ms GtG, VESA, modo sRGB.",
+    "price": 599999,
+    "category": "monitores",
+    "stock": 7,
+    "thumbnail": "/images/mon240-01.jpg",
+    "images": ["/images/mon240-01.jpg", "/images/mon240-02.jpg"]
+  }
+]

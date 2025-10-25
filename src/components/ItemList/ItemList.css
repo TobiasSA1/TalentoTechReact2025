@@ -1,0 +1,6 @@
+.il-empty{ color:#8f9bb0; padding:24px; }
+.il-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap:22px;
+}

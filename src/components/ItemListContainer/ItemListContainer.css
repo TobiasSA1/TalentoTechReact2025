@@ -1,0 +1,7 @@
+.ilc-wrap{ padding:24px; }
+.ilc-header h1{ margin:0 0 6px; font-size:clamp(1.4rem,2.6vw,2rem); }
+.ilc-sub{ margin:0 0 16px; color:#7c8698; }
+.ilc-skeleton{
+  padding:32px; color:#7c8698; font-style:italic;
+  background: #0f1422; border:1px solid #1b2236; border-radius:16px; margin:24px;
+}

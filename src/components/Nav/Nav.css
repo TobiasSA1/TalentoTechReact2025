@@ -1,0 +1,38 @@
+nav ul{
+  display: flex;
+  list-style: none;
+  gap: 8px;
+  justify-content: end;
+  margin-right: 15px;
+}
+
+nav ul a {
+  font-weight: 500;
+  color: orange;
+  text-decoration: inherit;
+  font-size: 1.15rem;
+}
+nav ul a:hover {
+  color: orangered;
+}
+
+
+
+
+
+.in-cart {
+  background-color: red;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: white;
+  border-radius: 50%;
+  padding: 0.25em 0.5em;
+  display: inline-block;
+  min-width: 15px;
+  text-align: center;
+  margin-left: 0.25rem;
+}
+.icons-cart{
+  font-size: 1.5rem;
+  margin-left: 15px;
+}

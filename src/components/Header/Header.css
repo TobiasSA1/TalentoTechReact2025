@@ -1,0 +1,15 @@
+header{
+  background-color: rgb(105, 101, 101);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+span{
+  color: lightskyblue;
+  padding:  5px 15px;
+}
+
+header h2{
+  margin-left: 10px;
+}

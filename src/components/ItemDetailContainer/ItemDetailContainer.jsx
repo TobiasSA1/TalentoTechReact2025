@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { useParams } from "react-router-dom"; // si tu proyecto ya usa react-router
-import ItemDetail from "./ItemDetail";
+import ItemDetail from "../ItemDetail/ItemDetail.jsx";
 import "./ItemDetailContainer.css";
 
 export default function ItemDetailContainer() {

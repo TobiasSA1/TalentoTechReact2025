@@ -1,4 +1,4 @@
-import Item from "./Item";
+import Item from "../Item/Item.jsx";
 import "./ItemList.css";
 
 export default function ItemList({ items = [] }) {
